@@ -3,9 +3,11 @@
 
 
 
-Skills: HTML/CSS/JAVASCRPT/REACT/NODEJS/EXPRESSJS/MONGODB
 
-- 🔭 I’m currently working on this page. 
+
+📲 +88 016 1426 6733
+🛠️ Languages and Tools:
+JavaScript  React.js Next.js Vite Node.js HTML CSS3 TailwindCSS Bootstrap  Netlify Firebase
 
 
 
